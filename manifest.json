@@ -1,0 +1,21 @@
+{
+  "name": "MoMo週期｜身體日記",
+  "short_name": "MoMo週期",
+  "description": "溫柔記錄你的身體節奏與月經週期。",
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f4ea",
+  "theme_color": "#34473b",
+  "icons": [
+    {
+      "src": "icons/momo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
